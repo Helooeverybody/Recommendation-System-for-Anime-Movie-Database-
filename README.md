@@ -1,4 +1,4 @@
-# Recommendation-System-for-Anime-Movie
+# Recommendation System for Anime Movie
 
 ## Projects description
 
